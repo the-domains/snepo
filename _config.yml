@@ -1,0 +1,23 @@
+name: snepo
+favicon: null
+layout_spectrum: 0.5520462873391807
+typography_spectrum: 0.5515224679838866
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6268192562274635
+  lightness: 0.48297469527460635
+  saturation: 0.14206774160265923
+  rhythmicContrast: 0.56653321092017
+purpose: []
