@@ -4,8 +4,15 @@
         <description><![CDATA[Snepo Research]]></description>
         <link>https://thegrid.ai/snepo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 11:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2015 11:44:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/snepo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/snepo/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">dd758710-7e55-48f2-9950-b90d4a4330cf</guid>
+            <pubDate>Tue, 17 Nov 2015 11:44:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://s3.amazonaws.com/snepo-website-rails-production/pictures/files/000/000/513/original/albany-1.png?1426565249">]]></description>
