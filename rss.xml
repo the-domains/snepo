@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Snepo Research]]></title>
         <description><![CDATA[Snepo Research]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/snepo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 11:42:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 Nov 2015 11:43:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/snepo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://s3.amazonaws.com/snepo-website-rails-production/pictures/files/000/000/545/original/fish-03.jpg?1434681892">]]></description>
+            <link>https://thegrid.ai/snepo/f198a86c-511a-42bc-a36e-6a5775aee7f2/index.html</link>
+            <guid isPermaLink="false">f198a86c-511a-42bc-a36e-6a5775aee7f2</guid>
+            <pubDate>Tue, 17 Nov 2015 11:42:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://s3.amazonaws.com/snepo-website-rails-production/pictures/files/000/000/523/original/pop-1.jpg?1426565671">]]></description>
-            <link>undefinedf79e0653-20ba-4457-aa99-9fb00921fccb/index.html</link>
+            <link>https://thegrid.ai/snepo/f79e0653-20ba-4457-aa99-9fb00921fccb/index.html</link>
             <guid isPermaLink="false">f79e0653-20ba-4457-aa99-9fb00921fccb</guid>
             <pubDate>Tue, 17 Nov 2015 11:42:43 GMT</pubDate>
         </item>
