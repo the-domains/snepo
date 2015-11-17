@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Snepo Research]]></title>
+        <description><![CDATA[Snepo Research]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 Nov 2015 11:42:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://s3.amazonaws.com/snepo-website-rails-production/pictures/files/000/000/523/original/pop-1.jpg?1426565671">]]></description>
+            <link>undefinedf79e0653-20ba-4457-aa99-9fb00921fccb/index.html</link>
+            <guid isPermaLink="false">f79e0653-20ba-4457-aa99-9fb00921fccb</guid>
+            <pubDate>Tue, 17 Nov 2015 11:42:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
