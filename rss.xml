@@ -4,8 +4,15 @@
         <description><![CDATA[Snepo Research]]></description>
         <link>https://thegrid.ai/snepo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 11:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2015 11:43:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/snepo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://s3.amazonaws.com/snepo-website-rails-production/pictures/files/000/000/513/original/albany-1.png?1426565249">]]></description>
+            <link>https://thegrid.ai/snepo/6c42bb69-0e0a-4d5a-b7b4-c09b86a6e4df/index.html</link>
+            <guid isPermaLink="false">6c42bb69-0e0a-4d5a-b7b4-c09b86a6e4df</guid>
+            <pubDate>Tue, 17 Nov 2015 11:43:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://s3.amazonaws.com/snepo-website-rails-production/pictures/files/000/000/545/original/fish-03.jpg?1434681892">]]></description>
