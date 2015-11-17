@@ -1,7 +1,7 @@
 name: snepo
 favicon: null
 layout_spectrum: 0.5520462873391807
-typography_spectrum: 0.5515224679838866
+typography_spectrum: 0.72449
 title: Snepo Research
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#763e00'
     - '#949494'
   brandStrength: 0.5625
-  lightness: 0.48297469527460635
-  saturation: 0.14206774160265923
-  rhythmicContrast: 0.56653321092017
+  lightness: 0.5
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
